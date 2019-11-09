@@ -18,7 +18,13 @@ monopoly = {
   :railroads => {
     :pieces => 4,
     :names => {
-    }
+      :reading_railroad => {},
+      :b_and_o_railroad => {},
+      :pennsylvania_railroad => {},
+      :shortline => {}
+      
+    },
+    :rent_in_dollars => {}
 }}
 monopoly
 end
